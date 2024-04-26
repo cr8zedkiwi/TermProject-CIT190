@@ -1,0 +1,82 @@
+#logo {
+  height: 405px;
+  width: 700px;
+  float: right;
+}
+
+#navbar a {
+  color: #f2f2f2;
+  text-align: center;
+  padding: 6px 10px;
+  text-decoration: none;
+  font-size: 50px;
+}
+
+#home {
+  background: grey;
+  top: 0;
+  width: 300px;
+}
+#home:hover{
+  background-color:black;
+  color:white;
+}
+
+
+#melon {
+  background: grey;
+  top: 0;
+  width: 300px;
+}
+#melon:hover{
+  background: rgba(253, 70, 89, 1);
+  color:black;
+}
+
+
+#blueras {
+  background: grey;
+  top: 0;
+  width: 300px;
+}
+#blueras:hover{
+  background: rgba(12, 191, 233, 1);
+  color:black;
+}
+
+
+#grape {
+  background: grey;
+  top: 0;
+  width: 300px;
+  height: 200px;
+}
+#grape:hover{
+  background:rgba(111, 45, 168, 1);
+  color:black;
+}
+
+
+#readme{
+  background:grey;
+  top:0;
+  width:300px;
+}
+#readme:hover{
+  background-color:black;
+}
+
+
+#message{
+  font-size:30px;
+  color:white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul{
+  position:absolute;
+  background-color: rgb(0,0,0, .7);
+  padding-top:5px;
+  padding-left:5px;
+  padding-right:5px;
+  padding-bottom:5px
+}
